@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242501197250",
+    "firebase_url": "https://ass2-c83bc.firebaseio.com",
+    "project_id": "ass2-c83bc",
+    "storage_bucket": "ass2-c83bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242501197250:android:23d6032e7968120a",
+        "android_client_info": {
+          "package_name": "nam.foodparadise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242501197250-4427nbrf6ut3embrb6alboh2ilqb0kog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nam.foodparadise",
+            "certificate_hash": "220c8c3763a2c3f4385bc7cf21e5ae7cc3e98ed6"
+          }
+        },
+        {
+          "client_id": "242501197250-03racq77vue6000cikl4fgraj215qp54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQU1rC3PVjlZlh3K9Vm4pMe9wHZfClv6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242501197250-03racq77vue6000cikl4fgraj215qp54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
